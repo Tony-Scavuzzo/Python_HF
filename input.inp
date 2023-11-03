@@ -1,0 +1,9 @@
+! size=2.5 grid=0.2 verbose plots
+# CCS: -MOS 0 1 -xyz 1.0 0.0 0.0 -xyz 0.0 1 0.0 -xyz 0.0 0.0 0.0
+
+xyz:
+0 1
+Ne 0 0 0
+:xyz
+
+# MOS: 1,1
